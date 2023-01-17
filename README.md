@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saeed Molaiy</h1>
 <h3 align="center">A passionate back-end developer from Iran</h3>
 
-
-## 💻 Tech Stack:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Saeedmolaiy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
