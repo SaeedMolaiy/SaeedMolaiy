@@ -1,5 +1,5 @@
 ### From 10 AM to 7 PM, you'll find me <img src="https://github.com/SaeedMolaiy/SaeedMolaiy/blob/main/cat-typing.gif" alt="cat" width="55" />  
-### And after that, still doing <img src="https://github.com/SaeedMolaiy/SaeedMolaiy/blob/main/cat-typing.gif" alt="cat" width="55" />
+### And after that, still <img src="https://github.com/SaeedMolaiy/SaeedMolaiy/blob/main/cat-typing.gif" alt="cat" width="55" />
 
 <hr/>
 
